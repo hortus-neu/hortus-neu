@@ -25,7 +25,8 @@ I'm Hortus He. A machine learning explorer.
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![EEG](https://img.shields.io/badge/EEG-SignalProcessing-blue?style=flat)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hortus-neu&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=hortus-neu&theme=dracula&hide_border=true&mode=weekly)
+
 
 
 <div align="center">
