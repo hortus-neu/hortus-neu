@@ -25,6 +25,8 @@ I'm Hortus He. A machine learning explorer.
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![EEG](https://img.shields.io/badge/EEG-SignalProcessing-blue?style=flat)
 
-![Hortus's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortus-neu&show_icons=true&theme=radical&cache_seconds=86400)
+![Hortus's GitHub stats](https://github-readme-stats-omega-one-40.vercel.app/api?username=hortus-neu&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&theme=dracula&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortus-neu&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats-omega-one-40.vercel.app/api/top-langs/?username=hortus-neu&layout=compact&hide=Jupyter%20Notebook,Matlab&theme=dracula&cache_seconds=86400)
+
