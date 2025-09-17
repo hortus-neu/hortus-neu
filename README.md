@@ -25,15 +25,15 @@ I'm Hortus He. A machine learning explorer.
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![EEG](https://img.shields.io/badge/EEG-SignalProcessing-blue?style=flat)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hortus-neu&theme=dracula&hide_border=true&mode=weekly)
 
 
 
 <div align="center">
 
+  <img src="https://streak-stats.demolab.com?user=hortus-neu&theme=dracula&hide_border=true&mode=weekly" height="180em" />
   <img src="https://github-readme-stats-omega-one-40.vercel.app/api?username=hortus-neu&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&theme=dracula&cache_seconds=86400" height="180em" />
-  
   <img src="https://github-readme-stats-omega-one-40.vercel.app/api/top-langs/?username=hortus-neu&layout=compact&hide=Jupyter%20Notebook,Matlab&theme=dracula&cache_seconds=86400" height="180em" />
 
 </div>
+
 
