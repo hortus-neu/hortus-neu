@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 
 I'm Hortus He. A machine learning explorer. 
-🎓 MSCS @ Northeastern University (Boston)  
-🔬 Research interests: LLMs · Multimodal Learning · AI Safety · Brain-inspired AI · AI agent · Computer Vision  
+- 🎓 MSCS @ Northeastern University (Boston)  
+- 🔬 Research interests: LLMs · Multimodal Learning · AI Safety · Brain-inspired AI · AI agent · Computer Vision  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -25,5 +25,6 @@ I'm Hortus He. A machine learning explorer.
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![EEG](https://img.shields.io/badge/EEG-SignalProcessing-blue?style=flat)
 
-![Hortus's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortus-neu&show_icons=true&theme=radical)  
+![Hortus's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortus-neu&show_icons=true&theme=radical&cache_seconds=86400)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortus-neu&layout=compact&theme=radical)
