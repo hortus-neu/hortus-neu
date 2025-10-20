@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 
-I'm Hortus He. A machine learning explorer. 
+I'm Tao He. A machine learning explorer. You can call me Hortus :). 
 - 🎓 | MSCS @ Northeastern University (Boston)  
 - 🔬 | Research interests: LLMs · Multimodal Learning · AI Safety · Brain-inspired AI · AI agent · Memery
 
